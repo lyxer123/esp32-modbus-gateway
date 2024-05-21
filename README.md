@@ -34,3 +34,7 @@ It work's for me, but there's room for improvement. If you have an idea please o
 ### Debug
 
 ![Debug](doc/img/debug.png)
+
+### 测试
+![platform](doc/img/测试平台.jpg)
+![test](doc/img/测试数据.jpg)
