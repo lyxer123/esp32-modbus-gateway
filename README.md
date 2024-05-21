@@ -36,5 +36,6 @@ It work's for me, but there's room for improvement. If you have an idea please o
 ![Debug](doc/img/debug.png)
 
 ### 测试
+![platform1](doc/img/测试有线tcp转rtu.jpg)
 ![platform](doc/img/测试平台.jpg)
 ![test](doc/img/测试数据.jpg)
